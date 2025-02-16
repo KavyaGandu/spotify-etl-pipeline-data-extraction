@@ -1,4 +1,4 @@
-# spotify-etl-pipeline-data-extraction
+# spotify-etl-pipeline/
 Spotify ETL pipeline(DATA EXTRACTION)
 Spotify ETL Pipeline using AWS Lambda, S3, Glue & Athena
 
